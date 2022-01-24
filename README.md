@@ -1,7 +1,5 @@
 # 2022 寒假学习规划
 
-------
-
 ## 阅读专业书籍
 
 - ***Viscous Fluid Flow (3 rd Edition, F. White)***
@@ -14,8 +12,6 @@
 - *数学专业进阶 （ODE, PDE, Functional Analysis, etc.）*
 - 其他……
 
-------
-
 ## 阅读专业文献
 
 - **★ 课题组已经发表期刊论文、博士论文**（*Lagrange Tracing*, PSE, etc.）
@@ -26,8 +22,6 @@
 - **DNS计算进展**（Flat plate, Channel, Cone, Taylor-Couette, Poiseuille flow, etc.）
 - 其他研究进展……
 
-------
-
 ## 学习编程技术
 
 - **Linux / Ubuntu** 入门与进阶
@@ -37,8 +31,6 @@
 - **MATLAB** 后处理程序集成 & 封装
 - **ANSYS ICEM, Pointwise** 网格划分（for RANS / DNS）
 - 其他**开源 CFD 软件**测试（以 DNS 为主）
-
-------
 
 ## 整理学习材料 & 分享与其他
 
