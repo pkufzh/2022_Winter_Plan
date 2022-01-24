@@ -54,7 +54,3 @@ Github Page: https://github.com/pkufzh
 ResearchGate: https://www.researchgate.net/profile/Zhenghao-Feng
 
 Bilibili Space: https://space.bilibili.com/167343763
-
-------
-
-<font size = 2.5>*This project is protected by the MIT license. Please obey the open source rules.*</font>
