@@ -47,10 +47,4 @@
 
 <font size = 2.5>Developed or Finished by *pkufzh (Small Shrimp)* on 2022/01/12.</font>
 
-**<u>Contact me: <a href="https://hexo.io/"><img src="https://img.shields.io/badge/Frame-Hexo-blue?style=flat&amp;logo=hexo" title="Powered by Hexo"></a> <a href="https://hexo.fluid-dev.com/"><img src="https://img.shields.io/badge/Theme-Fluid-9cf?style=flat&amp;logo=fortran" title="Theme Fluid"></a></u>[![ResearchGate](https://img.shields.io/badge/ResearchGate-brightgreen?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zhenghao-Feng) [![Bilibili Space](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=Bilibili%20Space&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D167343763)](https://space.bilibili.com/167343763) [![Github Stars](https://img.shields.io/badge/dynamic/json?color=262525&label=Github%20Followers&logo=github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dpkufzh)](https://github.com/pkufzh)**
-
-Github Page: https://github.com/pkufzh
-
-ResearchGate: https://www.researchgate.net/profile/Zhenghao-Feng
-
-Bilibili Space: https://space.bilibili.com/167343763
+<a href="https://hexo.io/"><img src="https://img.shields.io/badge/Frame-Hexo-blue?style=flat&amp;logo=hexo" title="Powered by Hexo"></a> <a href="https://hexo.fluid-dev.com/"><img src="https://img.shields.io/badge/Theme-Fluid-9cf?style=flat&amp;logo=fortran" title="Theme Fluid"></a> [![ResearchGate](https://img.shields.io/badge/ResearchGate-brightgreen?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zhenghao-Feng) [![Bilibili Space](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=Bilibili%20Space&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D167343763)](https://space.bilibili.com/167343763) [![Github Stars](https://img.shields.io/badge/dynamic/json?color=262525&label=Github%20Followers&logo=github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dpkufzh)](https://github.com/pkufzh)
